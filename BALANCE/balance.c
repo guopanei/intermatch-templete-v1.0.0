@@ -12,6 +12,7 @@
 	FreeRTOS任务，核心运动控制任务
 	运动学逆解，根据三轴目标速度计算各车轮目标转速
 	入口参数：X和Y、Z轴方向的目标运动速度
+	
 	返回值：无-------
  * Copyright (c) 2025 DLMU-CONE
  * 
@@ -28,7 +29,7 @@ u32 Buzzer_count1 = 0;
 #define SERVO_INIT_VALUE 1300
 #define SERVO_MIN_VALUE 700
 #define SERVO_MAX_VALUE 2500
-
+hhh
 #define SERVO_STEP 5
 // Robot mode is wrong to detect flag bits
 //机器人模式是否出错检测你好
