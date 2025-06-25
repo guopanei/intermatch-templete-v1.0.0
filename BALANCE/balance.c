@@ -24,7 +24,7 @@
 //int Time_count=0; //Time variable //计时变量
 
 u32 Buzzer_count1 = 0;
-hhhhh
+
 #define SERVO_INIT_VALUE 1300
 #define SERVO_MIN_VALUE 700
 #define SERVO_MAX_VALUE 2500
